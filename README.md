@@ -16,5 +16,7 @@ MySQLのサンプルデータベーススキーマは、以下のテーブルで
 - **Employees:** すべての従業員データと、誰が誰に報告するかなどの組織構造  
 - **Offices:** 営業所に関するデータ  
 
+![ER図](https://raw.githubusercontent.com/fs5013-furi-sutao/fsedu.mysql.8.0/master/images/classicmodels_er.png)
+
 ## 備考  
 .env ファイルには Windows ホスト向けにパスが変換できるよう、環境変数を設定しています。  
