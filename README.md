@@ -1,4 +1,4 @@
-# MySQL 8.0 コンテナ  
+# MySQL 8.0 コンテナの Docker Compose ファイル  
 MySQL 8.0 の Docker コンテナです。  
   
 DB 作成と初期データ投入をバッチ実行します。  
